@@ -1,0 +1,18 @@
+@font-face {
+    font-family: main;
+    src: url(../fonts/alfont_com_AlFont_com_Yekan-Bakh-EN-04-Regular.ttf);
+}
+@font-face {
+    font-family: side;
+    src: url(../fonts/Trashin.ttf);
+}
+
+#page{
+    font-family: main;
+    direction: rtl;
+    overflow-x: hidden;
+}
+
+#sliderTopHeader, #sliderH5{
+    font-family: side;
+}
