@@ -1,6 +1,6 @@
 # Responsive Web Template (DigiPay)
 
-![project1](https://github.com/dorsamhm/dgPay/blob/main/digiPaybg.png)
+![project1](https://github.com/dorsamhm/digipay/blob/main/digiPaybg.png)
 
 - [Demo Project](https://digipay-wheat.vercel.app/)
 
